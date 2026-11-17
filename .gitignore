@@ -1,0 +1,7 @@
+/analysis/data/*
+!/analysis/data/.gitkeep
+/analysis/output/*
+!/analysis/output/.gitkeep
+/analysis_output/
+__pycache__/
+*.py[cod]
